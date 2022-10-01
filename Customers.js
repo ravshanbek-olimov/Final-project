@@ -1,0 +1,31 @@
+const customers=[
+    {
+        id:1,
+        fistname:'Thom',
+        lastname:'Koelo',
+        email:'gust@gmail.com',
+        phone:'99891929283',
+        birth_date:'1986',
+        addres:'London'
+    },
+    {
+        id:2,
+        fistname:'john',
+        lastname:'Nesh',
+        email:'gus@gmail.com',
+        phone:'99891927327',
+        birth_date:'1982',
+        addres:'Toronto'
+    },
+    {
+        id:3,
+        fistname:'Paulo',
+        lastname:'eskonbar',
+        email:'gufht@gmail.com',
+        phone:'99891975998',
+        birth_date:'1965',
+        addres:'Columbia'
+    },
+]
+
+module.exports=customers;
